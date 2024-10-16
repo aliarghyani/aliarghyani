@@ -2,7 +2,7 @@
 <a href='https://www.bento.me/arghyani/'>
 
 <h1 align="center">Hi 👋, I'm Ali Arghyani</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 ## About:
 - 👋 Hello, I'm Ali Arghyani, a dedicated frontend developer with a passion for website design.
