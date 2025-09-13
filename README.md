@@ -20,7 +20,7 @@
 - Frontend developer focused on **Vue, Nuxt, TypeScript, Vite** with an **AI-first mindset**.  
 - Experienced in **project migrations & upgrades** (Vue 3.x → 3.5+, TypeScript/JS versions, Vite ecosystem).  
 - Passionate about **performance, accessibility, and clean architecture** (SOLID principles, reusable components, async loads).  
-- Daily routine: **track community trends** (LinkedIn, YouTube, RFCs, release notes) → experiment → document → deliver.  
+- Daily routine: **track community trends** (LinkedIn, YouTube, Discord communities, RFCs, release notes) → experiment → document → deliver.  
 - Comfortable with **CI/CD pipelines**, agile environments (**Jira, Slack**), and collaborative reviews (CodeRabbit, Sentry).  
 
 ---
@@ -31,6 +31,7 @@
 - **Collaboration & workflow** → fluent with **Jira & Slack** for team coordination; completed an incomplete **Scrum Mastering course** with solid agile knowledge.  
 - **Automation & integrations** → hands-on with **n8n workflows**; configured real-time chat with **Chatwoot + Socket.io**.  
 - **Custom dev** → built an **AI-powered PDF editor** from scratch.  
+- **Design & tools** → daily use of **Postman, Figma, Canva**, and IDEs like **Cursor, VSCode, Qoder, Kiro**.  
 - **Testing setup** → Playwright / Cypress for end-to-end flows, prevented regressions in auth & routing logic.  
 - **CI/CD automation** → GitHub Actions workflows for lint, type-check, tests, and preview deploys.  
 - **Accessibility care** → semantic HTML, keyboard navigation, IDE-enforced a11y rules via AI agents.  
@@ -83,24 +84,39 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Chatwoot](https://img.shields.io/badge/Chatwoot-1DA1F2?style=for-the-badge&logo=wechat&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-F29E38?style=for-the-badge&logo=comptia&logoColor=white)
 
 ---
 
 ## 📚 Learning rhythm
-- 📖 Growth mindset & psychology books  
-- 🎙️ AI, tech, and society podcasts (Persian videocast **AKNOON**, YouTube tech & life-hack channels)  
-- 🔍 Daily follow of **tech leaders & communities** across platforms  
-- 📝 Building a habit of writing down TIL notes  
+- 📖 Reading daily:  
+  - [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect)  
+  - [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)  
+  - [Clear Thinking: Turning Ordinary Moments into Extraordinary Results](https://www.goodreads.com/en/book/show/153044252-clear-thinking)  
+  - [Fragments of a Whole (تکه‌هایی از یک کل منسجم)](https://www.goodreads.com/book/show/58393838)  
+  - [The Divan of Hafez](https://www.goodreads.com/book/show/24104692-divan-of-hafez)  
+  - [The Gulistan of Sa‘di](https://www.goodreads.com/book/show/12315271-gulistan)  
+  - [The Masnavi (Book One)](https://www.goodreads.com/book/show/83262.The_Masnavi)  
+  - [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych)  
+
+- 🎙️ Podcasts & videocasts: **AKNOON** (Persian), **BPlus Podcast** (big fan), **Andrew Huberman** for healthy habits  
+- 📓 Notes: daily journaling in **Apple Journal/Notes**, plus **Notion** (personal) and **Obsidian** (work)  
+- 🎶 Music: exploring new sounds on **Spotify**, updating playlists constantly  
+- 🔍 Daily follow of **tech leaders & communities** across LinkedIn, YouTube, and Discord  
+- 📝 Building a habit of writing down thoughts & insights for future use  
 
 ---
 
 ## 🌱 Beyond Code (Life & Passions)
-- ♟️ Chess and 🎮 FIFA fan  
-- 🎶 Love for **classical music** and poetry — especially Persian poetry  
-- ❤️ Huge fan of **Homayoun Shajarian** (Persian classical singer)  
-- 🌍 Exploring **world poetry and culture**, fascinated by how societies grow and shift  
-- 👨‍👩‍👧‍👦 Deep belief in **family as first priority** — my passion is to grow together, enjoy the beauty of the world, and contribute to making it a better place  
+- ♟️ Chess and 🎮 gaming enthusiast → enjoyed *FIFA, Ghost of Tsushima, Red Dead Redemption, Last of Us, Uncharted, Horizon* — drawn to **immersive storytelling in games** as a developer.  
+- 🏓 Sports → love **ping pong and tennis** as balance outside the screen.  
+- 🎶 Love for **classical music** and poetry — especially Persian poetry.  
+- ❤️ Huge fan of **Homayoun Shajarian** (Persian classical singer).  
+- 🌍 Exploring **world poetry and culture**, fascinated by how societies grow and shift.  
+- 👨‍👩‍👧‍👦 Deep belief in **family as first priority** — weekly family meetings to share thoughts, critical thinking, and growth mindsets.  
+- ✨ My passion is to **grow with my family, enjoy the beauty of the world, and help make it a better place**.  
 
 ---
 
