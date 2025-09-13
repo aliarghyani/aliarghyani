@@ -92,14 +92,14 @@
 
 ## 📚 Learning rhythm
 - 📖 Reading daily:  
-  - [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect)  
-  - [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)  
+  - [The Compound Effect]([https://www.goodreads.com/book/show/9420697-the-compound-effect](https://www.goodreads.com/work/editions/14343128-the-compound-effect))  
+  - [Mindset: The New Psychology of Success]([https://www.goodreads.com/book/show/40745.Mindset](https://www.goodreads.com/work/editions/101033125-clear-thinking-turning-ordinary-moments-into-extraordinary-results))  
   - [Clear Thinking: Turning Ordinary Moments into Extraordinary Results](https://www.goodreads.com/en/book/show/153044252-clear-thinking)  
-  - [Fragments of a Whole (تکه‌هایی از یک کل منسجم)](https://www.goodreads.com/book/show/58393838)  
+  - [Fragments of a Whole (تکه‌هایی از یک کل منسجم)]([https://www.goodreads.com/book/show/58393838](https://www.goodreads.com/book/show/43523499))  
   - [The Divan of Hafez](https://www.goodreads.com/book/show/24104692-divan-of-hafez)  
   - [The Gulistan of Sa‘di](https://www.goodreads.com/book/show/12315271-gulistan)  
   - [The Masnavi (Book One)](https://www.goodreads.com/book/show/83262.The_Masnavi)  
-  - [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych)  
+  - [The Death of Ivan Ilych]([https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych))  
 
 - 🎙️ Podcasts & videocasts: **AKNOON** (Persian), **BPlus Podcast** (big fan), **Andrew Huberman** for healthy habits  
 - 📓 Notes: daily journaling in **Apple Journal/Notes**, plus **Notion** (personal) and **Obsidian** (work)  
