@@ -1,65 +1,115 @@
-<!-- THIS IS README.md FOR GITHUB PROFILE PAGE  -->
-<a href='https://www.bento.me/arghyani/'>
+<!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Ali Arghyani</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h1 align="center">Hi, I'm Ali Arghyani 👋</h1>
+<p align="center">
+  <b>AI-First Frontend Developer | Vue / Nuxt / TypeScript / Vite</b><br/>
+  Building fast, accessible, and maintainable apps — always learning & always shipping.
+</p>
 
-## About:
-- 👋 Hello, I'm Ali Arghyani, a dedicated frontend developer with a passion for website design.
-- 🌟 Specializing in frontend development, I bring expertise in NUXT, Vue.js, JavaScript, and TypeScript.
-- 🛠️ I leverage my skills to craft modern, responsive web interfaces, ensuring an exceptional user experience.
-- 🚀 Enthusiastically following the latest trends in web development and continuously expanding my skill set to deliver innovative solutions.
-- 🖥️ Designed and implemented responsive and maintainable web pages.
-- 🌐 Implemented progressive web applications (PWA) for websites.
-- 📈 Utilize the latest technologies and ensure projects are updated to maintain competitiveness.
+<p align="center">
+  <a href="https://www.bento.me/arghyani">Bento</a> •
+  <a href="https://www.linkedin.com/in/aliarghyani/">LinkedIn</a> •
+  <a href="https://github.com/Norman5353">GitHub</a> •
+  <a href="https://www.instagram.com/sina_rage/">Instagram</a> •
+  <a href="https://t.me/yourtelegram">Telegram</a>
+</p>
 
+---
 
-<div style="display:'flex'">
-<a href='https://www.linkedin.com/in/aliarghyani/'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
-</a>
-<a href='https://github.com/Norman5353'>
-    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
-</a>
-<a href='https://www.instagram.com/sina_rage/'>
-    <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' />
-</a>
-<a href='https://t.me/yourtelegram'>
-    <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' />
-</a>
-</div>
+## 👨‍💻 About me
+- Frontend developer focused on **Vue, Nuxt, TypeScript, Vite** with an **AI-first mindset**.  
+- Experienced in **project migrations & upgrades** (Vue 3.x → 3.5+, TypeScript/JS versions, Vite ecosystem).  
+- Passionate about **performance, accessibility, and clean architecture** (SOLID principles, reusable components, async loads).  
+- Daily routine: **track community trends** (LinkedIn, YouTube, RFCs, release notes) → experiment → document → deliver.  
+- Comfortable with **CI/CD pipelines**, testing frameworks, and collaborative reviews (CodeRabbit, Sentry).  
 
-## 🕸️ **WEB DEV**
- 
-<div style="display:'flex'>
- 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white "Vue.js")
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white "Vuetify")
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white "Nuxt.js")
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white "Vite")
-![ES6](https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "ES6")
-![Network+](https://img.shields.io/badge/Network+-F29E38?style=for-the-badge&logo=comptia&logoColor=white "Network+")
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")
-![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")
+---
+
+## 🚀 Highlights
+- **Project upgrades & refactoring** → migrated projects to latest Vue 3.5+, updated dependencies, resolved breaking changes.  
+- **Performance practices** → code-split routes, async components, composables (VueUse), image optimization, prefetch/preload strategies.  
+- **CI/CD automation** → GitHub Actions workflows for lint, type-check, tests, and preview deploys.  
+- **Accessibility care** → semantic HTML, keyboard navigation, IDE-enforced a11y rules via AI agents.  
+- **Testing setup** → Playwright / Cypress for end-to-end flows, prevented regressions in auth & routing logic.  
+- **Collaboration** → team code reviews, error monitoring with Sentry, automated PR reviews with CodeRabbit.  
+
+---
+
+## 🧠 AI-first workflow
+- Scaffold components, composables, and tests with AI → refine manually.  
+- Run **performance checks** (component/page level) directly in IDE + browser dev tools.  
+- Generate docs, unit tests, and audit reports faster with prompt engineering.  
+- Use AI as a **daily co-pilot** — inevitable and essential.  
+
+---
+
+## 🛠️ Tech Stack
+
+**Core Frontend**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**UI & Styling**
+
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f2cf5?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+**Tooling & APIs**
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "Styled-Components")
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind")
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black "Webpack")
-</div>
+![NPM](https://img.shields.io/badge/NPM-CB0000?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTTPie](https://img.shields.io/badge/HTTPie-222?style=for-the-badge&logo=httpie&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-## 🛠️ **DEVOPS TOOLS**
+**Other**
 
-<div style="display:'flex'">
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Network+](https://img.shields.io/badge/Network%2B-F29E38?style=for-the-badge&logo=comptia&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")
-![HTTPie](https://img.shields.io/badge/HTTPie-222222?style=for-the-badge&logo=httpie&logoColor=white "HTTPie")
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black "Swagger")
-</div>
+---
+
+## 📚 Learning rhythm
+- 🔍 Daily updates from **Vue/Nuxt core teams**, LinkedIn/X posts, and YouTube talks.  
+- 🧑‍💻 Constantly experimenting with new features (composables, hydration strategies, TS utilities).  
+- 📝 Writing down TIL notes (plan to publish in a public repo).  
+
+---
+
+## 📂 Selected projects
+> Pin repos + link here. Example style:  
+
+- **Legacy project upgrade** – Migrated Vue 3.0 → 3.5+, TS/JS upgrades, refactored packages, reduced build errors by 30%.  
+- **Modern SPA** – Responsive PWA with async components & composables → faster load, Lighthouse > 95.  
+
+---
+
+## ✍️ Latest post
+- [LinkedIn – My dev journey + AI practices (6,700+ impressions)](https://www.linkedin.com/feed/update/urn:li:activity:7365646942669889536/)
+
+---
+
+## 🤝 Let’s connect
+If you’re building something fast, accessible, and maintainable with Vue/Nuxt — let’s talk.  
+<p>
+  <a href="https://www.linkedin.com/in/aliarghyani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Norman5353">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://t.me/yourtelegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
+</p>
