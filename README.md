@@ -21,17 +21,19 @@
 - Experienced in **project migrations & upgrades** (Vue 3.x → 3.5+, TypeScript/JS versions, Vite ecosystem).  
 - Passionate about **performance, accessibility, and clean architecture** (SOLID principles, reusable components, async loads).  
 - Daily routine: **track community trends** (LinkedIn, YouTube, RFCs, release notes) → experiment → document → deliver.  
-- Comfortable with **CI/CD pipelines**, testing frameworks, and collaborative reviews (CodeRabbit, Sentry).  
+- Comfortable with **CI/CD pipelines**, agile environments (**Jira, Slack**), and collaborative reviews (CodeRabbit, Sentry).  
 
 ---
 
 ## 🚀 Highlights
 - **Project upgrades & refactoring** → migrated projects to latest Vue 3.5+, updated dependencies, resolved breaking changes.  
 - **Performance practices** → code-split routes, async components, composables (VueUse), image optimization, prefetch/preload strategies.  
+- **Collaboration & workflow** → fluent with **Jira & Slack** for team coordination; completed an incomplete **Scrum Mastering course** with solid agile knowledge.  
+- **Automation & integrations** → hands-on with **n8n workflows**; configured real-time chat with **Chatwoot + Socket.io**.  
+- **Custom dev** → built an **AI-powered PDF editor** from scratch.  
+- **Testing setup** → Playwright / Cypress for end-to-end flows, prevented regressions in auth & routing logic.  
 - **CI/CD automation** → GitHub Actions workflows for lint, type-check, tests, and preview deploys.  
 - **Accessibility care** → semantic HTML, keyboard navigation, IDE-enforced a11y rules via AI agents.  
-- **Testing setup** → Playwright / Cypress for end-to-end flows, prevented regressions in auth & routing logic.  
-- **Collaboration** → team code reviews, error monitoring with Sentry, automated PR reviews with CodeRabbit.  
 
 ---
 
@@ -40,6 +42,7 @@
 - Run **performance checks** (component/page level) directly in IDE + browser dev tools.  
 - Generate docs, unit tests, and audit reports faster with prompt engineering.  
 - Use AI as a **daily co-pilot** — inevitable and essential.  
+- Built **AI-based internal tools** (e.g., PDF editor, automated code reviews).  
 
 ---
 
@@ -76,6 +79,10 @@
 **Other**
 
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-F05A28?style=for-the-badge&logo=n8n&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1DA1F2?style=for-the-badge&logo=wechat&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-F29E38?style=for-the-badge&logo=comptia&logoColor=white)
 
 ---
@@ -102,6 +109,8 @@
 
 - **Legacy project upgrade** – Migrated Vue 3.0 → 3.5+, TS/JS upgrades, refactored packages, reduced build errors by 30%.  
 - **Modern SPA** – Responsive PWA with async components & composables → faster load, Lighthouse > 95.  
+- **AI PDF Editor** – Built a custom **AI-powered PDF editing tool** to automate document parsing & manipulation.  
+- **Chat integration** – Configured **Chatwoot + Socket.io** for real-time messaging inside a production app.  
 
 ---
 
