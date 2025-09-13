@@ -81,9 +81,19 @@
 ---
 
 ## 📚 Learning rhythm
-- 🔍 Daily updates from **Vue/Nuxt core teams**, LinkedIn/X posts, and YouTube talks.  
-- 🧑‍💻 Constantly experimenting with new features (composables, hydration strategies, TS utilities).  
-- 📝 Writing down TIL notes (plan to publish in a public repo).  
+- 📖 Growth mindset & psychology books  
+- 🎙️ AI, tech, and society podcasts (Persian videocast **AKNOON**, YouTube tech & life-hack channels)  
+- 🔍 Daily follow of **tech leaders & communities** across platforms  
+- 📝 Building a habit of writing down TIL notes  
+
+---
+
+## 🌱 Beyond Code (Life & Passions)
+- ♟️ Chess and 🎮 FIFA fan  
+- 🎶 Love for **classical music** and poetry — especially Persian poetry  
+- ❤️ Huge fan of **Homayoun Shajarian** (Persian classical singer)  
+- 🌍 Exploring **world poetry and culture**, fascinated by how societies grow and shift  
+- 👨‍👩‍👧‍👦 Deep belief in **family as first priority** — my passion is to grow together, enjoy the beauty of the world, and contribute to making it a better place  
 
 ---
 
