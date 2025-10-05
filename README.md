@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.bento.me/arghyani">Bento</a> •
-  <a href="https://www.linkedin.com/in/aliarghyani/">LinkedIn</a> •
-  <a href="https://github.com/Norman5353">GitHub</a> •
-  <a href="https://www.instagram.com/sina_rage/">Instagram</a> •
   <a href="https://t.me/yourtelegram">Telegram</a>
+  <a href="https://www.instagram.com/sina_rage/">Instagram</a> •
+  <a href="https://github.com/Norman5353">GitHub</a> •
+  <a href="https://www.linkedin.com/in/aliarghyani/">LinkedIn</a> •
+  <a href="https://www.bento.me/arghyani">Bento</a> •
 </p>
 
 ---
@@ -113,7 +113,7 @@
 - ♟️ Chess and 🎮 gaming enthusiast → enjoyed *FIFA, Ghost of Tsushima, Red Dead Redemption, Last of Us, Uncharted, Horizon* — drawn to **immersive storytelling in games** as a developer.  
 - 🏓 Sports → love **ping pong and tennis** as balance outside the screen.  
 - 🎶 Love for **classical music** and poetry — especially Persian poetry.  
-- ❤️ Huge fan of **Homayoun Shajarian** (Persian classical singer).  
+- ❤️ Big fan of **Homayoun Shajarian** (Persian classical singer).  
 - 🌍 Exploring **world poetry and culture**, fascinated by how societies grow and shift.  
 - 👨‍👩‍👧‍👦 Deep belief in **family as first priority** — weekly family meetings to share thoughts, critical thinking, and growth mindsets.  
 - ✨ My passion is to **grow with my family, enjoy the beauty of the world, and help make it a better place**.  
