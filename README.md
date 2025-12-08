@@ -4,7 +4,7 @@
 
 ### Frontend Developer | Vue.js • Nuxt.js • TypeScript
 
-**Building high-performance web applications with an AI-first approach**
+**Crafting production-grade Vue.js applications for international teams — 8 apps delivered**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-42B883?style=for-the-badge&logo=vue.js&logoColor=white)](https://aliarghyani.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliarghyani)
@@ -15,35 +15,23 @@
 
 ---
 
-## 🚀 Quick Stats
-
-<div align="center">
-
-| 🎯 Production Apps | ⚡ Development Speed | 📈 Uptime Record | 🌍 Sites Managed |
-|:------------------:|:-------------------:|:----------------:|:----------------:|
-| **8 Delivered** | **2x Faster** | **99.5%** | **14,500+** |
-
-</div>
-
----
-
 ## 💡 About Me
 
 From **Telecom Team Lead** to **Frontend Developer** — I bring a unique blend of engineering discipline and modern web development expertise.
 
 **My Journey:**
-- 🏢 **8 years at Huawei** managing 14,500+ network sites with 99.5% uptime
-- 💻 **Transitioned to frontend development** in 2023, specializing in Vue.js/Nuxt.js
-- 🤖 **AI-first engineer** leveraging Cursor AI, GitHub Copilot, and BMad Method
-- 🚀 **Delivered 8 production applications** for international clients
-- 🌍 **Fluent in English** (8+ years in fully English-speaking environment)
+- **8 years at Huawei** managing 14,500+ network sites with 99.5% uptime
+- **Transitioned to frontend development** in 2023, specializing in Vue.js/Nuxt.js
+- **AI-first engineer** leveraging Cursor AI, GitHub Copilot, and BMad Method
+- **Delivered 8 production applications** for international clients
+- **Fluent in English** (8+ years in fully English-speaking environment)
 
 **What I Bring:**
-- ✅ **Operational excellence** from telecom background
-- ✅ **Data-driven mindset** with strong analytical skills
-- ✅ **AI-powered productivity** accelerating development by 2x
-- ✅ **International collaboration** with distributed teams
-- ✅ **Full ownership** from requirements to deployment
+- **Operational excellence** from telecom background
+- **Data-driven mindset** with strong analytical skills
+- **AI-powered productivity** accelerating development by 2x
+- **International collaboration** with distributed teams
+- **Full ownership** from requirements to deployment
 
 ---
 
@@ -97,50 +85,43 @@ From **Telecom Team Lead** to **Frontend Developer** — I bring a unique blend 
 
 ---
 
-### 🛠️ [vue-cursor-rules](https://github.com/aliarghyani/vue-cursor-rules)
-**Open-source Cursor rules for Vue 3 + TypeScript**
-
-- Contract-driven development rules
-- Focus on DX, accessibility, and production-ready outputs
-
-**Tech:** Vue.js • TypeScript • Developer Tools
-
----
-
 ## 🛠️ Tech Stack
 
-### **Core Frontend**
+### **Frontend Core**
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### **UI & Styling**
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vue.js&logoColor=black)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
-### **State & Tools**
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vue.js&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![VueUse](https://img.shields.io/badge/VueUse-42B883?style=flat&logo=vue.js&logoColor=white)
+### **AI-Assisted Development**
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-FF6B00?style=flat&logo=amazon&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/Claude/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 
-### **Development & Quality**
+BMad Method • Prompt Engineering • AI-Powered Code Review
+
+### **Architecture & Performance**
+SSR • SSG • PWA • RBAC Systems • Code Splitting & Lazy Loading • Performance Optimization
+
+### **Development Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
-### **AI-Assisted Development** 🤖
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+REST APIs • WebSocket • Agile/Scrum
 
-**Methodologies:** BMad Method • MCP Tools • Prompt Engineering • AI-Powered Code Review
+### **Quality & Accessibility**
+WCAG 2.1 Compliance • Lighthouse Optimization • i18n Internationalization • Code Review
 
 
 ---
@@ -196,13 +177,12 @@ Progressed through multiple roles: Back Office → TCHA Team Lead → Assistant 
 ## 🌟 Open Source & Community
 
 ### **Active Projects**
-- 🛠️ [vue-cursor-rules](https://github.com/aliarghyani/vue-cursor-rules) - Cursor rules for Vue 3 + TypeScript
-- 🎨 [NuxtUi-Portfolio-Ali](https://github.com/aliarghyani/NuxtUi-Portfolio-Ali) - Portfolio built with Nuxt 4 & Nuxt UI
+- [NuxtUi-Portfolio-Ali](https://github.com/aliarghyani/NuxtUi-Portfolio-Ali) - Portfolio built with Nuxt 4 & Nuxt UI
 
 ### **Community Engagement**
-- 📝 Sharing Vue.js/Nuxt.js best practices
-- 🤝 Contributing to Vue ecosystem
-- 💡 Mentoring junior developers
+- Sharing Vue.js/Nuxt.js best practices
+- Contributing to Vue ecosystem
+- Mentoring junior developers
 
 ---
 
