@@ -99,15 +99,21 @@ From **Telecom Team Lead** to **Frontend Developer** — I bring a unique blend 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### **AI-Assisted Development**
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
 ![Kiro](https://img.shields.io/badge/Kiro-FF6B00?style=flat&logo=amazon&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/Claude/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-
-BMad Method • Prompt Engineering • AI-Powered Code Review
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![BMad Method](https://img.shields.io/badge/BMad_Method-8B5CF6?style=flat&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-06B6D4?style=flat&logoColor=white)
 
 ### **Architecture & Performance**
-SSR • SSG • PWA • RBAC Systems • Code Splitting & Lazy Loading • Performance Optimization
+![SSR](https://img.shields.io/badge/SSR-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![SSG](https://img.shields.io/badge/SSG-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC_Systems-EF4444?style=flat&logoColor=white)
+![Code Splitting](https://img.shields.io/badge/Code_Splitting-10B981?style=flat&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance_Optimization-F59E0B?style=flat&logoColor=white)
 
 ### **Development Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -117,11 +123,15 @@ SSR • SSG • PWA • RBAC Systems • Code Splitting & Lazy Loading • Perfo
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-
-REST APIs • WebSocket • Agile/Scrum
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile/Scrum-0052CC?style=flat&logo=jira&logoColor=white)
 
 ### **Quality & Accessibility**
-WCAG 2.1 Compliance • Lighthouse Optimization • i18n Internationalization • Code Review
+![WCAG 2.1](https://img.shields.io/badge/WCAG_2.1-005A9C?style=flat&logo=w3c&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-26A69A?style=flat&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code_Review-6366F1?style=flat&logoColor=white)
 
 
 ---
