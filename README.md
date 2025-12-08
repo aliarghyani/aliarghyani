@@ -187,7 +187,7 @@ Progressed through multiple roles: Back Office → TCHA Team Lead → Assistant 
 ## 🌟 Open Source & Community
 
 ### **Active Projects**
-- [NuxtUi-Portfolio](hhttps://github.com/aliarghyani/nuxt-portfolio) - Portfolio built with Nuxt 4 & Nuxt UI
+- [NuxtUi-Portfolio](https://github.com/aliarghyani/nuxt-portfolio) - Portfolio built with Nuxt 4 & Nuxt UI
 
 ### **Community Engagement**
 - Sharing Vue.js/Nuxt.js best practices
