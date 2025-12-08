@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../nuxt-portfolio-ali/nuxt-portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+  "settings": {
+    "files.associations": {
+      "*.css": "css"
+    }
+  }
+}
