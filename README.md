@@ -1,219 +1,80 @@
 <div align="center">
 
-# 👋 Hi, I'm Ali Arghyani
+# Ali Arghyani
 
-### Frontend Developer | Vue.js • Nuxt.js • TypeScript
+### Frontend Engineer | AI-Assisted Solutions & Workflow Automation
+**Process Improvement · Operational Performance · Human-Reviewed Delivery**
 
-**Crafting production-grade Vue.js applications for international teams — 8 apps delivered**
+**Practical solutions for complex workflows.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-42B883?style=for-the-badge&logo=vue.js&logoColor=white)](https://aliarghyani.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliarghyani)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliarghyani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliarghyani@gmail.com)
+I connect frontend engineering, operational analysis, and AI-assisted development to turn real business problems into maintainable software.
+
+<p>
+  <a href="https://aliarghyani.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aliarghyani/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p>
+
+<sub>My portfolio has the deeper project context. LinkedIn has the full professional timeline.</sub>
 
 </div>
 
 ---
 
-## 💡 About Me
+## What I bring
 
-From **Telecom Team Lead** to **Frontend Developer** — I bring a unique blend of engineering discipline and modern web development expertise.
+I spent **seven years in telecommunications operations**, including team leadership, KPI analysis, reporting automation, and cross-team incident coordination. Since moving into web development, my production focus has been **Vue, Nuxt, and TypeScript** for business-facing applications.
 
-**My Journey:**
-- **8 years at Huawei** managing 14,500+ network sites with 99.5% uptime
-- **Transitioned to frontend development** in 2023, specializing in Vue.js/Nuxt.js
-- **AI-first engineer** leveraging Cursor AI, GitHub Copilot, and BMad Method
-- **Delivered 8 production applications** for international clients
-- **Fluent in English** (8+ years in fully English-speaking environment)
+I approach software through the underlying workflow, not only the interface:
 
-**What I Bring:**
-- **Operational excellence** from telecom background
-- **Data-driven mindset** with strong analytical skills
-- **AI-powered productivity** accelerating development by 2x
-- **International collaboration** with distributed teams
-- **Full ownership** from requirements to deployment
+<table>
+<tr>
+<td width="33%" valign="top"><strong>01 · Discover</strong><br/>Understand stakeholders, bottlenecks, constraints, and actual requirements before selecting a solution.</td>
+<td width="33%" valign="top"><strong>02 · Build</strong><br/>Deliver maintainable frontend systems and focused automation with AI-assisted engineering where useful.</td>
+<td width="33%" valign="top"><strong>03 · Verify</strong><br/>Review code, test behavior, examine evidence, and keep ownership of the final decisions.</td>
+</tr>
+</table>
 
----
+## Work in practice
 
-## 🎯 Featured Projects
+**Healthcare platforms · NexaPortal** — As a **Frontend Developer**, I contribute to patient and administrative interfaces, forms, permissions, scheduling, integrations, and Artemis requirements-to-implementation discussions. My work is part of a wider product and engineering team.
 
+**Operations & data · Huawei** — My final official role was **Senior Performance Team Analyst and Team Lead**. I worked with network performance KPIs, coordination, and reporting workflows using Python, Pandas, and Excel.
 
-### 🏥 [Elara Medical Platform](https://app.elaramedical.com/)
-**Medical tourism platform transforming healthcare business management**
+**Business problem discovery · Advisory work** — I have also contributed to temporary, part-time technical and business discussions at DigiHinet. Broader workflow automation and solution design remain areas I am actively developing.
 
-- Built **5 interconnected applications** (admin panels, patient dashboards, websites)
-- Developed custom **PDF template editor** with drag-and-drop interface
-- Engineered enterprise-grade **RBAC system** with field-level permissions
-- Created **dynamic form builder** reducing development time by **60%**
-- Implemented **10+ language support** and PWA capabilities
-- Real-time messaging via **WebSocket** (WhatsApp + in-app channels)
+**→ [See selected work and full project context on my portfolio](https://aliarghyani.vercel.app/#projects)**
 
-**Tech:** Vue.js • Vuetify • TypeScript • Vite • Pinia • PWA • WebSocket
+## Selected public repositories
 
----
+A small sample of my public engineering work—not a complete list of commercial projects.
 
-### 💡 [Ideh - Idea Evaluation Platform](https://ideh.app/)
-**Scalable platform for idea evaluation and market insights**
-
-- Built reusable component library reducing development time by **30%**
-- Designed scalable Vue.js architecture for future growth
-- Implemented dynamic form generation system
-
-**Tech:** Nuxt.js • Vue.js • Component Architecture
-
----
-
-### 📢 [Insho - Advertising Marketplace](https://insho.app/)
-**Media marketplace connecting agencies and creators**
-
-- Advanced **dynamic form handling** with schema-based architecture
-- Modern backend-frontend structure reducing integration time by **40%**
-- Responsive UI optimized for creator-brand matching
-
-**Tech:** Nuxt.js • Vue.js • Tailwind CSS • Dynamic Forms
-
----
-
-### 🚗 [BaMashin - Mobility Rentals](https://bamashin.net/)
-**Rental platform for cars, boats, helicopters, and more**
-
-- Multi-category rental system with comprehensive booking
-- WCAG 2.1 compliant interface
-- Payment integration & mobile-optimized design
-
-**Tech:** Nuxt.js • Vue.js • TypeScript • Accessibility
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend Core**
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vue.js&logoColor=black)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### **AI-Assisted Development**
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-FF6B00?style=flat&logo=amazon&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![BMad Method](https://img.shields.io/badge/BMad_Method-8B5CF6?style=flat&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-06B6D4?style=flat&logoColor=white)
-
-### **Architecture & Performance**
-![SSR](https://img.shields.io/badge/SSR-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-![SSG](https://img.shields.io/badge/SSG-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC_Systems-EF4444?style=flat&logoColor=white)
-![Code Splitting](https://img.shields.io/badge/Code_Splitting-10B981?style=flat&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance_Optimization-F59E0B?style=flat&logoColor=white)
-
-### **Development Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile/Scrum-0052CC?style=flat&logo=jira&logoColor=white)
-
-### **Quality & Accessibility**
-![WCAG 2.1](https://img.shields.io/badge/WCAG_2.1-005A9C?style=flat&logo=w3c&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-26A69A?style=flat&logoColor=white)
-![Code Review](https://img.shields.io/badge/Code_Review-6366F1?style=flat&logoColor=white)
-
-
----
-
-## 💼 Experience Highlights
-
-### 🌟 **Frontend Developer** @ [NexaPortal](https://nexaportal.com/)
-**Dec 2024 - Present** | Izmir, Turkey (Remote)
-
-Building secure, scalable frontends for medical tourism platforms. Delivered 5 interconnected applications with RBAC, PWA, i18n, and real-time features.
-
-**Key Achievements:**
-- Custom PDF editor and dynamic form builder
-- 60% faster form development
-- 10+ language support
-- Zero critical bugs with AI-powered development
-
----
-
-### 💻 **Freelance Frontend Developer**
-**Sep 2023 - Dec 2024** | Tehran, Iran (Remote)
-
-Delivered 3 production-grade applications for international clients using Vue.js/Nuxt.js.
-
-**Key Achievements:**
-- 40% faster development with AI tools
-- 100% on-time delivery rate
-- Strong client satisfaction
-
----
-
-### 🏢 **Senior Performance Team Lead** @ Huawei Technologies
-**Apr 2022 - Aug 2023** | Tehran, Iran
-
-Led team managing 14,500+ network sites nationwide with 99.5%+ uptime.
-
-**Key Achievements:**
-- Automated reporting with Python/Pandas (70% time reduction)
-- Mentored 10 team members (30% efficiency improvement)
-- Reduced network downtime by 22% year-over-year
-
----
-
-### 📊 **Technical & Leadership Roles** @ Huawei Technologies
-**Jun 2016 - Apr 2022** | Tehran, Iran
-
-Progressed through multiple roles: Back Office → TCHA Team Lead → Assistant Regional Manager → Senior Performance Analyst
-
-**Recognition:** Outstanding fresh graduate at Huawei annual meeting
-
----
-
-## 🌟 Open Source & Community
-
-### **Active Projects**
-- [NuxtUi-Portfolio](https://github.com/aliarghyani/nuxt-portfolio) - Portfolio built with Nuxt 4 & Nuxt UI
-
-### **Community Engagement**
-- Sharing Vue.js/Nuxt.js best practices
-- Contributing to Vue ecosystem
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Telecommunications Engineering**  
-Qom University of Technology | 2010 - 2015
-
-**Relevant Coursework:** Software Architecture • Systems Design • Network Management
-
----
-
-## 📫 Let's Connect!
-
-I'm **available for remote opportunities worldwide** and open to exciting frontend projects.
+| Project | Why it matters |
+|:--|:--|
+| **[Vue Cursor Rules](https://github.com/aliarghyani/vue-cursor-rules)** | A reusable rule set for AI-assisted Vue 3 / TypeScript development, with attention to maintainability, accessibility, and review. |
+| **[Offline Persian Transcription](https://github.com/aliarghyani/offline-audio-transcription)** | A local audio-processing workflow with resumable stages, integrity checks, and an explicit human speaker-identity gate. No generalized accuracy claims. |
+| **[ADHD Interactive Explorer](https://github.com/aliarghyani/ADHD-Interactive-Explorer)** | Bilingual, accessibility-focused Nuxt architecture and validation work. An evolving R&D project, **not** a completed product. |
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-42B883?style=for-the-badge)](https://aliarghyani.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/aliarghyani)
-[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:aliarghyani@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Check_My_Code-181717?style=for-the-badge)](https://github.com/aliarghyani)
+**More engineering context, case studies, and experience → [aliarghyani.vercel.app](https://aliarghyani.vercel.app/)**
+
+</div>
+
+## Core toolkit
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Pinia-F7D336?style=flat-square&logoColor=111827" alt="Pinia" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/AI--assisted_delivery-152B4A?style=flat-square&logo=openai&logoColor=white" alt="AI-assisted delivery" />
 
 </div>
 
@@ -221,8 +82,11 @@ I'm **available for remote opportunities worldwide** and open to exciting fronte
 
 <div align="center">
 
-### 💬 "From managing 14,500 network sites to crafting pixel-perfect UIs — I bring operational excellence to every line of code."
+### Build something useful, starting with the problem.
 
-**⭐ If you like my work, consider starring my repositories!**
+For the fuller story, visit my **portfolio** for projects and approach, or **LinkedIn** for experience and professional connections.
+
+<a href="https://aliarghyani.vercel.app/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" /></a>
+<a href="https://www.linkedin.com/in/aliarghyani/"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 </div>
