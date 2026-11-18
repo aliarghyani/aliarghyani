@@ -28,13 +28,11 @@ I spent **seven years in telecommunications operations**, including team leaders
 
 I approach software through the underlying workflow, not only the interface:
 
-<table>
-<tr>
-<td width="33%" valign="top"><strong>01 · Discover</strong><br/>Understand stakeholders, bottlenecks, constraints, and actual requirements before selecting a solution.</td>
-<td width="33%" valign="top"><strong>02 · Build</strong><br/>Deliver maintainable frontend systems and focused automation with AI-assisted engineering where useful.</td>
-<td width="33%" valign="top"><strong>03 · Verify</strong><br/>Review code, test behavior, examine evidence, and keep ownership of the final decisions.</td>
-</tr>
-</table>
+**01 · Discover** — Understand stakeholders, bottlenecks, constraints, and actual requirements before choosing a solution.
+
+**02 · Build** — Deliver maintainable frontend systems and focused automation, using AI-assisted engineering where useful.
+
+**03 · Verify** — Review code, test behavior, examine evidence, and keep ownership of final decisions.
 
 ## Work in practice
 
@@ -48,17 +46,49 @@ I approach software through the underlying workflow, not only the interface:
 
 ## Selected public repositories
 
-A small sample of my public engineering work—not a complete list of commercial projects.
+A curated selection from my public code. These projects demonstrate **frontend delivery, system architecture, and practical automation**; they are not a list of client or commercial products.
 
-| Project | Why it matters |
-|:--|:--|
-| **[Vue Cursor Rules](https://github.com/aliarghyani/vue-cursor-rules)** | A reusable rule set for AI-assisted Vue 3 / TypeScript development, with attention to maintainability, accessibility, and review. |
-| **[Offline Persian Transcription](https://github.com/aliarghyani/offline-audio-transcription)** | A local audio-processing workflow with resumable stages, integrity checks, and an explicit human speaker-identity gate. No generalized accuracy claims. |
-| **[ADHD Interactive Explorer](https://github.com/aliarghyani/ADHD-Interactive-Explorer)** | Bilingual, accessibility-focused Nuxt architecture and validation work. An evolving R&D project, **not** a completed product. |
+### 01 · [Nuxt Portfolio](https://github.com/aliarghyani/nuxt-portfolio)
+
+**Frontend architecture · Nuxt 4 · TypeScript · English/Persian RTL**
+
+The source behind this website: bilingual content, theme switching, Nuxt Content blog, typed résumé data, and a PDF export workflow. A complete, inspectable application rather than a framework demo.
+
+[Live portfolio](https://aliarghyani.vercel.app/) · [Source code](https://github.com/aliarghyani/nuxt-portfolio)
+
+---
+
+### 02 · [15ecosystem](https://github.com/aliarghyani/15ecosystem)
+
+**Product and systems thinking · Nuxt 4 · PostgreSQL / Drizzle · Testing**
+
+A bilingual learning companion organized around practical skills and seven-day practice plans. Its repository includes server API design, structured data, content governance, and Vitest/Playwright quality checks. **A public code project; no claim of commercial launch or validated user traction.**
+
+[Explore source and architecture](https://github.com/aliarghyani/15ecosystem)
+
+---
+
+### 03 · [MyBudget](https://github.com/aliarghyani/mybudget)
+
+**Vue 3 application · TypeScript · Pinia · RTL/i18n · Local-first UX**
+
+A personal budgeting app starter with editable income and expense flows, locale-aware currency handling, keyboard shortcuts, autosave, and local persistence. Shows applied frontend interaction design without suggesting cloud synchronization or production adoption.
+
+[Explore source code](https://github.com/aliarghyani/mybudget)
+
+---
+
+### 04 · [Offline Persian Transcription](https://github.com/aliarghyani/offline-audio-transcription)
+
+**Automation engineering · Python · Offline processing · Human review**
+
+A local Persian audio-processing pipeline with input integrity checks, resumable stages, bounded retries, and explicit human review for speaker identity. A technical workflow—not a benchmarked commercial transcription service.
+
+[Explore source and workflow](https://github.com/aliarghyani/offline-audio-transcription)
 
 <div align="center">
 
-**More engineering context, case studies, and experience → [aliarghyani.vercel.app](https://aliarghyani.vercel.app/)**
+**For full project stories and professional context, start here: [Portfolio](https://aliarghyani.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/aliarghyani/)**
 
 </div>
 
