@@ -15,7 +15,7 @@
 <p>تخصص من در نقطه اتصال مهندسی فرانت‌اند، تحلیل عملیات و توسعه نرم‌افزار به کمک هوش مصنوعی قرار دارد؛ جایی که مسائل واقعی کسب‌وکار به راهکارهایی کاربردی و قابل نگهداری تبدیل می‌شوند.</p>
 
 <p>
-<a href="https://aliarghyani.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="مشاهده وب‌سایت و نمونه‌کارها" /></a>
+<a href="https://aliarghyani.vercel.app/fa"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="مشاهده وب‌سایت و نمونه‌کارها" /></a>
 <a href="https://www.linkedin.com/in/aliarghyani/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="ارتباط در لینکدین" /></a>
 </p>
 
@@ -33,26 +33,17 @@
 
 <p>مسیر کارم از شناخت فرایند واقعی آغاز می‌شود، نه از انتخاب عجولانه ابزار یا ساخت نرم‌افزار.</p>
 
-<table>
-<tr>
-<td dir="rtl" align="right">
 <h3>۱. کشف مسئله</h3>
-<p>شناخت افراد درگیر، گلوگاه‌ها، محدودیت‌ها و نیازهای واقعی؛ پیش از تصمیم‌گیری درباره راهکار فنی.</p>
-</td>
-</tr>
-<tr>
-<td dir="rtl" align="right">
+
+<p>شناخت افراد درگیر، گلوگاه‌ها، محدودیت‌ها و نیازهای واقعی؛ پیش از انتخاب راهکار فنی.</p>
+
 <h3>۲. ساخت راهکار</h3>
-<p>توسعه رابط‌های قابل نگهداری و خودکارسازی‌های هدفمند، با استفاده سنجیده از ابزارهای هوش مصنوعی در فرایند مهندسی.</p>
-</td>
-</tr>
-<tr>
-<td dir="rtl" align="right">
+
+<p>توسعه رابط‌های قابل نگهداری و خودکارسازی‌های هدفمند با استفاده سنجیده از ابزارهای هوش مصنوعی.</p>
+
 <h3>۳. اعتبارسنجی و بازبینی</h3>
+
 <p>بازبینی کد، آزمودن رفتار سیستم، بررسی شواهد و حفظ مسئولیت تصمیم‌های نهایی در اختیار انسان.</p>
-</td>
-</tr>
-</table>
 
 <h2>تجربه‌ها در عمل</h2>
 
@@ -68,37 +59,56 @@
 
 <p>در همکاری موقت و پاره‌وقت با <span dir="ltr">DigiHinet</span> نیز در گفت‌وگوهای فنی و کسب‌وکاری مشارکت داشته‌ام. خودکارسازی گردش‌کارها و طراحی راهکارهای گسترده‌تر از حوزه‌هایی هستند که همچنان به‌صورت هدفمند در آن‌ها در حال توسعه تجربه‌ام هستم.</p>
 
-<p><strong><a href="https://aliarghyani.vercel.app/#projects">مشاهده نمونه‌کارها، جزئیات پروژه‌ها و نقش من در وب‌سایت شخصی</a></strong></p>
+<p><strong><a href="https://aliarghyani.vercel.app/fa#projects">مشاهده نمونه‌کارها، جزئیات پروژه‌ها و نقش من در وب‌سایت شخصی</a></strong></p>
 
-<h2>چند پروژه عمومی منتخب</h2>
+<h2>پروژه‌های عمومی منتخب</h2>
 
-<p>این‌ها نمونه‌هایی از فعالیت‌های مهندسی قابل مشاهده در گیت‌هاب هستند، نه فهرست کامل پروژه‌های تجاری من.</p>
+<p>این چهار مخزن را از میان پروژه‌های عمومی‌ام انتخاب کرده‌ام تا نمونه‌ای از <strong>مهندسی فرانت‌اند، معماری سیستم و خودکارسازی کاربردی</strong> را نشان دهند. پروژه‌های مشتریان و محصولات تجاری لزوماً مخزن عمومی ندارند.</p>
 
-<table>
-<tr>
-<td dir="rtl" align="right">
-<h3><a href="https://github.com/aliarghyani/vue-cursor-rules"><span dir="ltr">Vue Cursor Rules</span></a></h3>
-<p>مجموعه‌ای قابل استفاده مجدد از قواعد توسعه به کمک هوش مصنوعی برای پروژه‌های <span dir="ltr">Vue 3 / TypeScript</span>، با توجه به نگهداری‌پذیری، دسترس‌پذیری و بازبینی خروجی.</p>
-</td>
-</tr>
-<tr>
-<td dir="rtl" align="right">
-<h3><a href="https://github.com/aliarghyani/offline-audio-transcription">رونویسی آفلاین گفتار فارسی</a></h3>
-<p>گردش‌کاری محلی برای پردازش صوت با کنترل صحت ورودی، مراحل قابل ادامه، مدیریت اجرای مجدد و تأیید هویت گوینده توسط انسان. برای دقت عمومی این سیستم ادعای عددیِ ارزیابی‌نشده‌ای مطرح نمی‌کنم.</p>
-</td>
-</tr>
-<tr>
-<td dir="rtl" align="right">
-<h3><a href="https://github.com/aliarghyani/ADHD-Interactive-Explorer"><span dir="ltr">ADHD Interactive Explorer</span></a></h3>
-<p>پروژه‌ای پژوهشی و در حال توسعه برای اعتبارسنجی معماری رابطی دوزبانه و دسترس‌پذیر با تمرکز بر نمایش دانش. این پروژه هنوز محصول کامل و نهایی نیست.</p>
-</td>
-</tr>
-</table>
+<hr />
+
+<h3>۱. <a href="https://github.com/aliarghyani/nuxt-portfolio"><span dir="ltr">Nuxt Portfolio</span></a></h3>
+
+<p><strong>معماری فرانت‌اند · <span dir="ltr">Nuxt 4 / TypeScript</span> · دوزبانه و راست‌به‌چپ</strong></p>
+
+<p>کد همین وب‌سایت شخصی: محتوای فارسی و انگلیسی، تغییر پوسته، وبلاگ با <span dir="ltr">Nuxt Content</span>، داده‌های ساختاریافته رزومه و تولید خروجی <span dir="ltr">PDF</span>. یک برنامه قابل بررسی با نسخه آنلاین، نه صرفاً یک قالب نمایشی.</p>
+
+<p><a href="https://aliarghyani.vercel.app/fa">مشاهده نسخه فارسی وب‌سایت</a> · <a href="https://github.com/aliarghyani/nuxt-portfolio">مشاهده کد پروژه</a></p>
+
+<hr />
+
+<h3>۲. <a href="https://github.com/aliarghyani/15ecosystem"><span dir="ltr">15ecosystem</span></a></h3>
+
+<p><strong>تفکر محصول و معماری سیستم · <span dir="ltr">Nuxt 4 / PostgreSQL / Drizzle</span> · آزمون خودکار</strong></p>
+
+<p>پروژه‌ای دوزبانه برای یادگیری مهارت‌های کاربردی و برنامه‌های تمرینی هفت‌روزه. مخزن آن طراحی API، مدل داده، مدیریت محتوای ساختاریافته و آزمون‌های <span dir="ltr">Vitest / Playwright</span> را در بر می‌گیرد. عمومی بودن کد به معنای عرضه تجاری یا تأیید میزان استفاده کاربران نیست.</p>
+
+<p><a href="https://github.com/aliarghyani/15ecosystem">مشاهده کد و معماری پروژه</a></p>
+
+<hr />
+
+<h3>۳. <a href="https://github.com/aliarghyani/mybudget"><span dir="ltr">MyBudget</span></a></h3>
+
+<p><strong>اپلیکیشن فرانت‌اند · <span dir="ltr">Vue 3 / TypeScript / Pinia</span> · تجربه کاربری دوزبانه</strong></p>
+
+<p>پروژه آغازین مدیریت بودجه شخصی با ثبت درآمد و هزینه، نمایش مبالغ متناسب با زبان، میان‌برهای صفحه‌کلید، ذخیره خودکار و نگهداری اطلاعات در مرورگر. این پروژه برای نمایش طراحی تعاملات کاربردی است؛ نه یک سرویس چندکاربره ابری.</p>
+
+<p><a href="https://github.com/aliarghyani/mybudget">مشاهده کد پروژه</a></p>
+
+<hr />
+
+<h3>۴. <a href="https://github.com/aliarghyani/offline-audio-transcription">رونویسی آفلاین گفتار فارسی</a></h3>
+
+<p><strong>مهندسی خودکارسازی · <span dir="ltr">Python</span> · پردازش محلی · بازبینی انسانی</strong></p>
+
+<p>گردش‌کار پردازش صوت فارسی با کنترل صحت فایل ورودی، مراحل قابل ادامه، تلاش مجدد محدود و تأیید هویت گوینده توسط انسان. این پروژه نمونه‌ای از مهندسی گردش‌کار است، نه یک محصول تجاری با دقت عمومیِ سنجیده‌شده.</p>
+
+<p><a href="https://github.com/aliarghyani/offline-audio-transcription">مشاهده کد و مراحل پردازش</a></p>
 
 <div align="center">
 
-<p><strong>برای مطالعه کامل‌تر رویکرد مهندسی، پروژه‌ها و سوابق من:</strong></p>
-<p><a href="https://aliarghyani.vercel.app/">aliarghyani.vercel.app</a></p>
+<p><strong>برای مطالعه تجربه‌های واقعی، جزئیات پروژه‌ها و سوابق حرفه‌ای:</strong></p>
+<p><a href="https://aliarghyani.vercel.app/fa">وب‌سایت شخصی</a> · <a href="https://www.linkedin.com/in/aliarghyani/">لینکدین</a></p>
 
 </div>
 
@@ -132,7 +142,7 @@
 <p>اگر می‌خواهید با تجربه‌ها، پروژه‌ها و شیوه کار من بیشتر آشنا شوید، <strong>وب‌سایت شخصی</strong> را ببینید. برای ارتباط حرفه‌ای و بررسی سوابق کامل‌تر، از <strong>لینکدین</strong> استفاده کنید.</p>
 
 <p>
-<a href="https://aliarghyani.vercel.app/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="مشاهده نمونه‌کارها" /></a>
+<a href="https://aliarghyani.vercel.app/fa"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="مشاهده نمونه‌کارها" /></a>
 <a href="https://www.linkedin.com/in/aliarghyani/"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="ارتباط در لینکدین" /></a>
 </p>
 
