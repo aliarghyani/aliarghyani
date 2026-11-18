@@ -16,6 +16,8 @@ I connect frontend engineering, operational analysis, and AI-assisted developmen
 
 <sub>My portfolio has the deeper project context. LinkedIn has the full professional timeline.</sub>
 
+<p><sub>Language: <strong>English</strong> · <a href="./README.fa.md" lang="fa" dir="rtl">فارسی</a></sub></p>
+
 </div>
 
 ---
